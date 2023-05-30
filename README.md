@@ -1,1 +1,1 @@
-# illness-recognition-NLP
+# Reconnaissance des maladie
