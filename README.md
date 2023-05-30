@@ -1,6 +1,6 @@
 ## Reconnaissance des maladies
 
-#### Ressources
+### Ressources :
     
 * Dataset : https://www.kaggle.com/datasets/niyarrbarman/symptom2disease
 * Presentation-theme : https://www.canva.com/
